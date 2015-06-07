@@ -1,0 +1,21 @@
+{
+    "name": "mdmunir/yii2-actioncolumn",
+    "description": "Action column dg button sesuai role",
+    "type": "yii2-extension",
+    "keywords": ["yii2"," grid"," action column"," action control"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "mdmunir",
+            "email": "mdm@a.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mdmunir\\grid\\": ""
+        }
+    }
+}
